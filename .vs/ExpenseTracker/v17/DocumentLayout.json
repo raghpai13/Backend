@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\data\\expensetrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:data\\expensetrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611092428_ExpenseTracker_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611092428_ExpenseTracker_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\model\\catmapuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:model\\catmapuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\model\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:model\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\model\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:model\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611092115_ExpenseTracker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611092115_ExpenseTracker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611091958_ExpenseTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611091958_ExpenseTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611091224_Third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611091224_Third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611090920_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611090920_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\repository\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:repository\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\repository\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:repository\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\repository\\mockuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:repository\\mockuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:repository\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\controllers\\userdtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:controllers\\userdtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|c:\\users\\raghavendrapai\\source\\repos\\expensetracker\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA46DE7-C419-42C7-BCED-C47BDD62941C}|ExpenseTracker.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseTrackerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Data\\ExpenseTrackerDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ExpenseTrackerDbContext.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Data\\ExpenseTrackerDbContext.cs",
+              "RelativeToolTip": "Data\\ExpenseTrackerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:53:33.932Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240611092428_ExpenseTracker_2.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611092428_ExpenseTracker_2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240611092428_ExpenseTracker_2.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611092428_ExpenseTracker_2.cs",
+              "RelativeToolTip": "Migrations\\20240611092428_ExpenseTracker_2.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:24:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240611092115_ExpenseTracker_1.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611092115_ExpenseTracker_1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240611092115_ExpenseTracker_1.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611092115_ExpenseTracker_1.cs",
+              "RelativeToolTip": "Migrations\\20240611092115_ExpenseTracker_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:21:16.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240611091958_ExpenseTracker.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611091958_ExpenseTracker.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240611091958_ExpenseTracker.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611091958_ExpenseTracker.cs",
+              "RelativeToolTip": "Migrations\\20240611091958_ExpenseTracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:19:58.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Transaction.cs",
+              "RelativeDocumentMoniker": "Model\\Transaction.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Transaction.cs",
+              "RelativeToolTip": "Model\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:05:51.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Income.cs",
+              "RelativeDocumentMoniker": "Model\\Income.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Income.cs",
+              "RelativeToolTip": "Model\\Income.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:47:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:43:30.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Expense.cs",
+              "RelativeDocumentMoniker": "Model\\Expense.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Expense.cs",
+              "RelativeToolTip": "Model\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:25:19.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\DTO\\UserDto.cs",
+              "RelativeToolTip": "Model\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:43:44.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Model\\Category.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\Category.cs",
+              "RelativeToolTip": "Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:06:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatMapUser.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\CatMapUser.cs",
+              "RelativeDocumentMoniker": "Model\\CatMapUser.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Model\\CatMapUser.cs",
+              "RelativeToolTip": "Model\\CatMapUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:47:26.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240611091224_Third.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611091224_Third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240611091224_Third.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611091224_Third.cs",
+              "RelativeToolTip": "Migrations\\20240611091224_Third.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:12:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240611090920_First.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611090920_First.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240611090920_First.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Migrations\\20240611090920_First.cs",
+              "RelativeToolTip": "Migrations\\20240611090920_First.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:09:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\ExpenseRepository.cs",
+              "RelativeToolTip": "Repository\\ExpenseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:03:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "Controllers\\ExpenseController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:45:57.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\IExpenseRepository.cs",
+              "RelativeToolTip": "Repository\\IExpenseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:46:21.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:34:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDtoesController.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Controllers\\UserDtoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserDtoesController.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Controllers\\UserDtoesController.cs",
+              "RelativeToolTip": "Controllers\\UserDtoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:00:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T07:03:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:44:19.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MockUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\MockUserRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\MockUserRepo.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\MockUserRepo.cs",
+              "RelativeToolTip": "Repository\\MockUserRepo.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:49:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\IUser.cs",
+              "RelativeDocumentMoniker": "Repository\\IUser.cs",
+              "ToolTip": "C:\\Users\\RaghavendraPai\\source\\repos\\ExpenseTracker\\Repository\\IUser.cs",
+              "RelativeToolTip": "Repository\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:42:48.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
